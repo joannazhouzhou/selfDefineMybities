@@ -1,0 +1,2 @@
+# selfDefineMybities
+学习mybaties源码并尝试自定义一个Mybaties框架
