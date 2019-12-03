@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="com.uloo.dao.BudgetAnnualBaseOfferSchemeDao">
+    <!--配置查询所有-->
+    <select id="getAllUserByMybatis" resultType="com.uloo.entity.BudgetAnnualBaseOfferScheme" >
+        select * from budget_annual_base_offer_scheme
+    </select>
+</mapper>
+
+
+
